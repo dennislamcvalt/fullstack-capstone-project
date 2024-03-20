@@ -33,3 +33,20 @@ assignees: ''
 Given the project requirements
 When I finish writing the user stories
 Then each user story should clearly state the role, function, benefit, details, assumptions, and acceptance criteria
+
+# 2. Initialize and populate MongoDB
+
+**As a** Full-stack developer
+**I need** to initialize and populate MongoDB for the GiftLink project
+**So that** the application has a structured and populated database to work with
+
+### Details and Assumptions
+* MongoDB is the chosen database for this project
+* The database needs to be structured according to the data requirements of the application
+* Initial data is available for population
+
+### Acceptance Criteria
+Given the data requirements and initial data
+When I initialize and populate MongoDB
+Then the database should be set up correctly with all the necessary collections and documents
+
