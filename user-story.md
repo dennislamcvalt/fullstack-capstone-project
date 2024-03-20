@@ -67,11 +67,65 @@ Then it should start successfully without any errors and I should be able to acc
 
 # 4. Implement a landing page and navigation
 
+**As a** Full-stack developer
+**I need** to implement a landing page and navigation for the GiftLink project
+**So that** users can easily navigate through the application and access its features
+
+### Details and Assumptions
+* The landing page is the first page users see when they visit the application
+* The navigation should be intuitive and user-friendly, allowing users to easily navigate to different sections of the application
+
+### Acceptance Criteria
+Given the design specifications for the landing page and navigation
+When I implement these features
+Then users should be able to see the landing page when they visit the application and use the navigation to go to different sections of the application
+
 # 5. Add authentication components and logic
+
+**As a** Full-stack developer
+**I need** to add authentication components and logic to the GiftLink project
+**So that** users can securely log in and access their personal data and features
+
+### Details and Assumptions
+* The authentication system should provide secure access control for the application
+* It should include components for user registration, login, and password recovery
+
+### Acceptance Criteria
+Given the requirements for secure user authentication
+When I implement the authentication components and logic
+Then users should be able to register, log in, recover their password, and access their personal data and features securely
+
 
 # 6. Implement Gifts details page
 
+**As a** Full-stack developer
+**I need** to implement a Gifts details page for the GiftLink project
+**So that** users can view detailed information about each gift
+
+### Details and Assumptions
+* The Gifts details page should display all relevant information about a gift
+* It should be accessible from the main Gifts listing page
+
+### Acceptance Criteria
+Given the requirements for the Gifts details page
+When I implement this feature
+Then users should be able to access the Gifts details page from the main Gifts listing page and view all relevant information about a gift
+
 # 7. Implement a search component
+
+**As a** Full-stack developer
+**I need** to implement a search component for the GiftLink project
+**So that** users can easily find specific gifts based on their preferences
+
+### Details and Assumptions
+* The search component should allow users to search for gifts based on various criteria such as name, category, price, etc.
+* It should provide relevant search results in a user-friendly manner
+
+### Acceptance Criteria
+Given the requirements for the search component
+When I implement this feature
+Then users should be able to use the search component to find specific gifts and view relevant search results
+
 
 # 8. Design and implement the comments feature
 
