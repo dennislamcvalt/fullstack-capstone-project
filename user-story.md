@@ -126,11 +126,49 @@ Given the requirements for the search component
 When I implement this feature
 Then users should be able to use the search component to find specific gifts and view relevant search results
 
-
 # 8. Design and implement the comments feature
+
+**As a** Full-stack developer
+**I need** to design and implement a comments feature for the GiftLink project
+**So that** users can engage in discussions about the gifts
+
+### Details and Assumptions
+* The comments feature should allow users to post comments, reply to other comments, and view all comments for a gift
+* It should be intuitive and user-friendly, promoting user engagement and interaction
+
+### Acceptance Criteria
+Given the requirements for the comments feature
+When I design and implement this feature
+Then users should be able to post comments, reply to other comments, and view all comments for a gift
 
 # 9. Containerize the services and applications
 
+**As a** Full-stack developer
+**I need** to containerize the services and applications of the GiftLink project
+**So that** the deployment process is simplified and the application runs consistently across different environments
+
+### Details and Assumptions
+* Containerization involves packaging the application and its dependencies into a container
+* Tools like Docker can be used for this process
+
+### Acceptance Criteria
+Given the services and applications of the GiftLink project
+When I containerize them
+Then they should be able to run consistently across different environments and the deployment process should be simplified
+
+
 # 10. Deploy backend and frontend
 
+**As a** Full-stack developer
+**I need** to deploy the backend and frontend of the GiftLink project
+**So that** the application is accessible to users
+
+### Details and Assumptions
+* The backend and frontend have been developed and tested
+* The deployment process involves setting up the server, uploading the application, and configuring the server settings
+
+### Acceptance Criteria
+Given the backend and frontend of the GiftLink project
+When I deploy them
+Then the application should be accessible to users and function as expected
 
