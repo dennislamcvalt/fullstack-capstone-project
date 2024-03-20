@@ -50,3 +50,33 @@ Given the data requirements and initial data
 When I initialize and populate MongoDB
 Then the database should be set up correctly with all the necessary collections and documents
 
+# 3. Run skeleton application
+
+**As a** Full-stack developer
+**I need** to run the skeleton application for the GiftLink project
+**So that** I can verify the basic setup and functionality of the application
+
+### Details and Assumptions
+* The skeleton application has been set up with the basic structure and dependencies
+* The application can be run locally for testing and development purposes
+
+### Acceptance Criteria
+Given the skeleton application
+When I run the application
+Then it should start successfully without any errors and I should be able to access the application's main page
+
+# 4. Implement a landing page and navigation
+
+# 5. Add authentication components and logic
+
+# 6. Implement Gifts details page
+
+# 7. Implement a search component
+
+# 8. Design and implement the comments feature
+
+# 9. Containerize the services and applications
+
+# 10. Deploy backend and frontend
+
+
